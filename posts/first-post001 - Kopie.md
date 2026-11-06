@@ -14,7 +14,7 @@ icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2615.png"
 
 Dies ist **Testbeitrag 03**. Der Duft von frisch gemahlenem Kaffee kündigt eine kleine Auszeit an.
 
-![Kleiner Vogel im Geäst](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%287%29.jpg){width=60% round=12px align=center}
+![Kleiner Vogel im Geäst](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%287%29.jpg){width=80% round=12px align=center}
 
 ### Unser Testrezept
 

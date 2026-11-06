@@ -14,7 +14,7 @@ icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png
 
 Dies ist **Testbeitrag 04**. Dieser Artikel hat einen besonders langen Titel, um Zeilenumbrüche im Layout sichtbar zu machen.
 
-![Diagramm zur Fotosicherung](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Untitled%20diagram-2025-12-07-215740.png){width=100% round=12px align=center}
+![Diagramm zur Fotosicherung](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Untitled%20diagram-2025-12-07-215740.png){width=80% round=12px align=center}
 
 ### Kleine Veränderungen
 

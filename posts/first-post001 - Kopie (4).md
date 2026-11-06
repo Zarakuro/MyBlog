@@ -14,7 +14,7 @@ icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3a8.png
 
 Dies ist **Testbeitrag 06**. Drei Farbtöne stehen heute im Mittelpunkt.
 
-![Kaninchen am Waldboden](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2810%29.jpg){width=60% round=12px align=center}
+![Kaninchen am Waldboden](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2810%29.jpg){width=80% round=12px align=center}
 
 ### Orange
 

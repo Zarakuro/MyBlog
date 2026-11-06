@@ -26,10 +26,10 @@ Dieser Absatz steht unter einer kleineren Überschrift. Damit lassen sich Text, 
 
 Ein zweites Motiv testet eine schmalere Bildbreite.
 
-![Analoge Kamera mit aufgeklapptem Lichtschacht](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg){width=50% round=24px align=center}
+![Analoge Kamera mit aufgeklapptem Lichtschacht](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg){width=80% round=12px align=center}
 
 ### Bild ohne zusätzliche Einstellungen
 
 Die einfache Markdown-Syntax aus der README funktioniert ohne Größenangaben.
 
-![Schwan mit ausgebreiteten Flügeln auf dem Wasser](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%289%29.jpg)
+![Schwan mit ausgebreiteten Flügeln auf dem Wasser](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%289%29.jpg){width=80% round=12px align=center}

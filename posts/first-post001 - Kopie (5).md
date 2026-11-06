@@ -14,7 +14,7 @@ icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f306.png
 
 Dies ist **Testbeitrag 07**. Nach Sonnenuntergang verändert sich der Blick auf vertraute Straßen. Schaufenster spiegeln sich auf dem Asphalt, während die letzten Cafés ihre Stühle hineintragen.
 
-![Heller Lichtpunkt am dunkelblauen Himmel](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2811%29.jpg){width=100% round=12px align=center}
+![Heller Lichtpunkt am dunkelblauen Himmel](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2811%29.jpg){width=80% round=12px align=center}
 
 ### Ein Weg ohne festes Ziel
 
