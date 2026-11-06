@@ -7,7 +7,7 @@ cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_9713.j
 excerpt: "Ein Beispiel ohne Autorenname, Autorenlink und Avatar zur Kontrolle einer reduzierten Beitragskarte."
 author: "Zarakuro"
 author_url: null
-icon: null
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dd.png"
 ---
 
 ## Grüße aus dem Testarchiv

@@ -2,6 +2,17 @@
 
 87 Vorschläge für unterschiedliche Artikelarten. Du kannst die Zuordnung frei ändern oder ein Icon für mehrere verwandte Themen verwenden. Dies ist eine thematische Auswahl, kein vollständiges Unicode-Emoji-Verzeichnis.
 
+## Meine Standard-Icons
+
+Diese vier Icons bilden die Standardauswahl für neue Beiträge. Die weiteren Tabellen darunter bleiben als zusätzliche Motivsammlung erhalten.
+
+| Emoji | Verwendung | Zeile für den Metadatenblock |
+| --- | --- | --- |
+| 📷 | Fotografie allgemein und Fotoausrüstung | `icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f7.png"` |
+| 🎞️ | Allgemeines | `icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f39e.png"` |
+| 💻 | Computer, Hardware, Datensicherung, Fotosortierung und Bildbearbeitung | `icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png"` |
+| 📝 | Notizen, Kurzbeiträge, Spaziergänge und Alltagsberichte | `icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dd.png"` |
+
 ## Ein Icon verwenden
 
 Kopiere aus der Tabelle die komplette `icon:`-Zeile in den Metadatenblock der jeweiligen Datei unter `posts/`. Ersetze dabei eine vorhandene `icon:`-Zeile; trage sie nicht doppelt ein.

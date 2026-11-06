@@ -3,7 +3,7 @@ title: "Kamera-Aufbewahrung und 3D-Druck"
 slug: "kamera-aufbewahrung-und-3d-druck"
 date: "2026-11-06"
 published_date: "2026-11-06"
-icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e6.png"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f7.png"
 author: "Zarakuro"
 ---
 

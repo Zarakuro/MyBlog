@@ -7,7 +7,7 @@ cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperD
 excerpt: "Ein längerer Beispielartikel über einen erfundenen Abend zwischen Straßen, Schaufenstern und Lichtern."
 author: "Zarakuro"
 author_url: "https://example.com/autoren/stadtlichter"
-icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f306.png"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dd.png"
 ---
 
 ## Wenn die Stadt aufleuchtet

@@ -7,7 +7,7 @@ cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Untitled%2
 excerpt: "Ein bewusst längerer Titel und eine ausführlichere Vorschau testen, wie die Beitragskarten mit mehreren Textzeilen und unterschiedlich langen Inhalten umgehen."
 author: "Zarakuro"
 author_url: "https://example.com/autoren/kreativer-arbeitsplatz"
-icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png"
 ---
 
 ## Raum für Kreativität

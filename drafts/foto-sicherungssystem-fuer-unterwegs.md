@@ -3,7 +3,7 @@ title: "Foto-Sicherungssystem für unterwegs"
 slug: "foto-sicherungssystem-fuer-unterwegs"
 date: "2026-11-06"
 published_date: "2026-11-06"
-icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f6e1.png"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png"
 author: "Zarakuro"
 ---
 

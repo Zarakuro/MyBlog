@@ -7,7 +7,7 @@ cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperD
 excerpt: "Ein besonders kurzer Testbeitrag für einen schnellen Vergleich mit langen Artikeln."
 author: "Zarakuro"
 author_url: "https://example.com/autoren/meeresrauschen"
-icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f30a.png"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dd.png"
 ---
 
 ## Am Wasser

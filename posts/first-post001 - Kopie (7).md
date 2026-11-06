@@ -6,7 +6,7 @@ published_date: "2026-11-04"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg"
 author: "Zarakuro"
 author_url: "https://example.com/autoren/ideenlabor"
-icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ea.png"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dd.png"
 ---
 
 ## Eine Idee nimmt Form an

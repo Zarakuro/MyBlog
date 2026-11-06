@@ -4,7 +4,7 @@ slug: "controller-und-addons-fuer-fotosortierung-und-bearbeitung"
 date: "2026-11-06"
 published_date: "2026-11-06"
 author: "Zarakuro"
-icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f39b.png"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png"
 ---
 
 <!--

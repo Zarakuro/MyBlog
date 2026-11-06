@@ -7,7 +7,7 @@ cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-202404
 excerpt: "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung."
 author: "Zarakuro"
 author_url: "https://example.com/autoren/willkommen"
-icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f44b.png"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f39e.png"
 ---
 
 ## Hallo aus dem Testblog
