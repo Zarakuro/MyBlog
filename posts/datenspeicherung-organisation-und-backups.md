@@ -1,13 +1,17 @@
 ---
 title: "Datenspeicherung und Backups"
-slug: "datenspeicherung-und-backups"
+slug: "datenspeicherung-organisation-und-backups"
 date: "2026-11-06"
 published_date: "2026-11-06"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png"
 author: "Zarakuro"
+excerpt: "Ein Überblick darüber, wie ich meine Fotos zu Hause organisiere, archiviere und sichere – mit Einblicken in meinen Aufbau und meine Erfahrungen."
 ---
 
 ## Meine Speicherorte
+
+Für das Foto-Backup zu Hause gehe ich ähnlich vor wie mit meinen anderen Daten – auch wenn ich meine Disziplin da noch etwas verbessern könnte. Auf meinem PC liegen die Fotos zur Bearbeitung auf einer separaten eingebauten M.2-SSD. Hier werden auch alle Fotos vom UT2 oder den SD-Karten per Lightroom-Import abgelegt. Die Fotos, die bereits bearbeitet wurden, verschiebe ich auf einen Home-NAS und kann sie von dort bei Bedarf wieder auf den PC holen, wenn ich noch einmal daran arbeiten möchte.
+Der NAS wird regelmäßig komplett (mit allen anderen Daten) auf eine externe Festplatte gespiegelt. Diese Festplatte sollte am besten an einem anderen Ort gelagert werden (Offsite-Backup).
 
 Das hier soll eine kurze Übersicht werden zu meiner Speicherstruktur der Fotos und wie ich PC, NAS und Festplatten mit Lightroom nutze, um meine Fotos zu organisieren. 
 Das Ganze startet mit den Speicherkarten, die in Lightroom importiert werden. in Lightroom wird dann der Hauptkatalog genutzt, um fotos auf der PC festplatte und dem NAS zu verwalten. Alle Fotos die ich aktiv bearbeite, liegen auf dem PC lokal. Alle Fotos, die schon bearbeitet wurden, liegen auf dem NAS (das sind etwa die letzten 5 Jahre). Aus dem Hauptkatalog werden ungerschiedliche andere kataloge abgeleitet, die jeweils ein stück auf dem PC liegen, ein Stück auf dem NAS. Alle fotos, die "nie wieder" genutzt werden, werden auf eine Festplatte als separate Kataloge exportiert. Der lokale Hauptkatalog verwaltet Fotos auf dem Rechner und dem NAS. Daraus entstehen weitere Kataloge für das Deep Foto Archive enthält die als separate Kataloge exportierten Langzeitbestände mit ihren zugehörigen Originalfotos.
