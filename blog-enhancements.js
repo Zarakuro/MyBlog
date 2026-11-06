@@ -95,8 +95,15 @@
     }), 5e3);
   }
   function c(e) {
-    e.target instanceof Element && e.target.closest("#text85 img,#photo-zoom img") && (e.preventDefault(), 
-    s());
+    if (!(e.target instanceof Element)) return;
+    const image = e.target.closest("#text85 img,#photo-zoom img,#blog-section img,#gallery-section img,#gallery04 img");
+    const thumbnail = e.target.closest("#blog-section a.thumbnail,#gallery-section a.thumbnail,#gallery04 a.thumbnail");
+    const modalImage = e.target.closest(".gallery-component-modal img");
+    const protectedModal = modalImage && [...document.querySelectorAll("#gallery-section a.thumbnail[href],#blog-section a.thumbnail[href]")]
+      .some(link => link.href === modalImage.src);
+    if (!image && !thumbnail?.querySelector("img") && !protectedModal) return;
+    e.preventDefault();
+    s();
   }
   function l() {
     !function() {
