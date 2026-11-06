@@ -3,14 +3,27 @@
     "published_date": "2026-11-06",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png",
     "author": "Zarakuro",
-    "title": "Datenspeicherung, Organisation und Backups",
-    "slug": "datenspeicherung-organisation-und-backups",
+    "title": "Datenspeicherung und Backups",
+    "slug": "datenspeicherung-und-backups",
     "date": "2026-11-06",
     "cover": "",
-    "excerpt": "Was ich speichere und warum Meine Speicherorte Für die Übersicht trenne ich die Speicherstruktur von der Software. Hier geht es zuerst darum, wo Originaldateien...",
+    "excerpt": "Meine Speicherorte Das hier soll eine kurze Übersicht werden zu meiner Speicherstruktur der Fotos und wie ich PC, NAS und Festplatten mit Lightroom nutze, um me...",
     "path": "posts/datenspeicherung-organisation-und-backups.md",
-    "sha": "2d9f9e474a178247af18975b5fb98a81f15abb39",
-    "updated_at": "2026-11-06T14:38:07+01:00"
+    "sha": "ff969304bc6b88bdb62b676b577db981c909f0d3",
+    "updated_at": "2026-11-06T16:03:05+01:00"
+  },
+  {
+    "published_date": "2026-11-06",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png",
+    "author": "Zarakuro",
+    "title": "Foto-Sicherungssystem für unterwegs",
+    "slug": "foto-sicherungssystem-fuer-unterwegs",
+    "date": "2026-11-06",
+    "cover": "",
+    "excerpt": "Warum ich meine Fotos unterwegs sichere Meine Ausrüstung Mein Ablauf nach einem Fototag Reise-Backup im Überblick Das Diagramm übernimmt die Geräte und Kopierwe...",
+    "path": "posts/foto-sicherungssystem-fuer-unterwegs.md",
+    "sha": "24b36c26ff0f98fa38b7e37afd2cdff80e499054",
+    "updated_at": "2026-11-06T16:03:05+01:00"
   },
   {
     "published_date": "2026-11-06",
@@ -24,7 +37,7 @@
     "excerpt": "Vom Entwurf zum veröffentlichten Artikel: eine praktische Anleitung für Metadaten, Markdown, Bilder, Tabellen, Fußnoten und die Funktionen dieses Carrd-Blogs.",
     "path": "posts/test-12-formatierungsbeispiele.md",
     "sha": "99c4e7b1960b09d7c956bd68f091215ad99e533c",
-    "updated_at": "2026-11-06T14:38:07+01:00"
+    "updated_at": "2026-11-06T16:03:05+01:00"
   },
   {
     "published_date": "2026-11-06",
@@ -38,6 +51,6 @@
     "excerpt": "Ein kleiner Einstieg in meinen Blog über Fotografie, Ausrüstung und den Weg zum fertigen Bild.",
     "path": "posts/first-post.md",
     "sha": "dd3d27d73d2921b1dbc24b4db7b6fe33e92b7e16",
-    "updated_at": "2026-11-06T14:38:07+01:00"
+    "updated_at": "2026-11-06T16:03:05+01:00"
   }
 ]
