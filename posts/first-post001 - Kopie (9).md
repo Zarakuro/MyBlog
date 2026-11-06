@@ -1,5 +1,5 @@
 ---
-title: "My First Blog Post"
+title: "My First Blog Postwertwer"
 slug: "my-first-post"
 date: "2026-10-27"
 cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
