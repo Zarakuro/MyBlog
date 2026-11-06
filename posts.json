@@ -2,15 +2,15 @@
   {
     "author": "Alex Test",
     "author_url": "https://example.com/autoren/format-check",
-    "icon": "🔎",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f50e.png",
     "title": "Test 11: Format-Check: Überschriften, Links & Bilder",
     "slug": "test-11-format-check",
     "date": "2026-11-06",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg",
     "excerpt": "Der jüngste Testbeitrag kombiniert Textauszeichnung, einen Link und ein Bild mit Größenangaben.",
     "path": "posts/first-post001 - Kopie (9).md",
-    "sha": "48e4f849f5310f027b50d687536f567c40ad74cc",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "822d3a4e74bc85f6d9eeb4b7bdec85141aa31e33",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": null,
@@ -23,123 +23,123 @@
     "excerpt": "Ein Beispiel ohne Autorenname, Autorenlink und Avatar zur Kontrolle einer reduzierten Beitragskarte.",
     "path": "posts/first-post001 - Kopie (8).md",
     "sha": "91029f18d8f388deafe5003d3847ecb3e1a853a4",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": "Jule Platzhalter",
     "author_url": "https://example.com/autoren/ideenlabor",
-    "icon": "🧪",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ea.png",
     "title": "Test 09: Notizen aus dem Ideenlabor",
     "slug": "test-09-ideenlabor",
     "date": "2026-11-04",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg",
     "excerpt": "Eine Idee nimmt Form an Dies ist Testbeitrag 09 . Die Vorschau dieser Karte wird automatisch aus dem Artikeltext erzeugt. So lässt sich die Ersatzdarstellung oh...",
     "path": "posts/first-post001 - Kopie (7).md",
-    "sha": "3188fbc102eac1663b1e19e439bec28149148cb9",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "aad770faff23179bb36ccb1a11ed73eac8c94067",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": "Ben Demo",
     "author_url": "https://example.com/autoren/meeresrauschen",
-    "icon": "🌊",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f30a.png",
     "title": "Test 08: Meeresrauschen in drei Zeilen",
     "slug": "test-08-meeresrauschen",
     "date": "2026-11-03",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%289%29.jpg",
     "excerpt": "Ein besonders kurzer Testbeitrag für einen schnellen Vergleich mit langen Artikeln.",
     "path": "posts/first-post001 - Kopie (6).md",
-    "sha": "178373472c8c9dc30007051dc39f2f1b8738bc45",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "9603f904ee068f8cbcd5b680cbbab55e8859f19e",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": "Sara Muster",
     "author_url": "https://example.com/autoren/stadtlichter",
-    "icon": "🌆",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f306.png",
     "title": "Test 07: Stadtlichter nach Sonnenuntergang",
     "slug": "test-07-stadtlichter",
     "date": "2026-11-02",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2811%29.jpg",
     "excerpt": "Ein längerer Beispielartikel über einen erfundenen Abend zwischen Straßen, Schaufenstern und Lichtern.",
     "path": "posts/first-post001 - Kopie (5).md",
-    "sha": "59a4c0ac1c88bb0f355d5c4cdb85c6626b9c1bff",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "2d314b8e4d957543fb250a9de4018403376df445",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": "Finn Beispiel",
     "author_url": "https://example.com/autoren/herbstfarben",
-    "icon": "🎨",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3a8.png",
     "title": "Test 06: Farben für einen frischen Herbst",
     "slug": "test-06-herbstfarben",
     "date": "2026-11-01",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2810%29.jpg",
     "excerpt": "Herbstliche Farbinspiration und ein grünes Waldmotiv bringen Abwechslung in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (4).md",
-    "sha": "16d0f7e1ca3c7a95bb928a183f30c6339b33246f",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "ba1ea82d03b241ddce91adcbb6548934b6d67bd3",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": "Emma Test",
     "author_url": "https://example.com/autoren/waldspaziergang",
-    "icon": "🌲",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f332.png",
     "title": "Test 05: Waldspaziergang im Sonnenlicht",
     "slug": "test-05-waldspaziergang",
     "date": "2026-10-31",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%288%29.jpg",
     "excerpt": "Ein Waldmotiv als Cover und ein Bild im Artikel bringen den Spaziergang sichtbar in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (3).md",
-    "sha": "41f6357e569e85beafd05151e5c22548d4f4e3e6",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "5ea488a6e46975f9ae971b19b9ecab83339250da",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": "Noah Platzhalter",
     "author_url": "https://example.com/autoren/kreativer-arbeitsplatz",
-    "icon": "💡",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png",
     "title": "Test 04: Ein Arbeitsplatz voller Ideen und kleiner kreativer Umwege",
     "slug": "test-04-kreativer-arbeitsplatz",
     "date": "2026-10-30",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Untitled%20diagram-2025-12-07-215740.png",
     "excerpt": "Ein bewusst längerer Titel und eine ausführlichere Vorschau testen, wie die Beitragskarten mit mehreren Textzeilen und unterschiedlich langen Inhalten umgehen.",
     "path": "posts/first-post001 - Kopie (2).md",
-    "sha": "bab638382ddd8395cb8600f546724b380f8ef7eb",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "7a456cf2920c3289e5b4b53ac98fd73830a691c1",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": "Mia Demo",
     "author_url": "https://example.com/autoren/kaffeepause",
-    "icon": "☕",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2615.png",
     "title": "Test 03: Kaffeepause: fünf Minuten für neue Ideen",
     "slug": "test-03-kaffeepause",
     "date": "2026-10-29",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%287%29.jpg",
     "excerpt": "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch.",
     "path": "posts/first-post001 - Kopie.md",
-    "sha": "ca93f2930731156b3b7840bf1b6348c75d616839",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "0f257081b6aa57d667584b97c719eb9bd7ecadd6",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": "Tom Muster",
     "author_url": "https://example.com/autoren/bergwanderung",
-    "icon": "🏔️",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d4.png",
     "title": "Test 02: Bergluft am Morgen",
     "slug": "test-02-bergwanderung",
     "date": "2026-10-28",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG_1125.jpg",
     "excerpt": "Eine fiktive Wanderung zwischen Gipfeln, frischer Luft und einer kleinen Packliste.",
     "path": "posts/first-post001.md",
-    "sha": "cb0ea1ee667767ec105156f3547599f6c74ec538",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "31477c8f8c911eae2a39e2913ec07398c57a02b2",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   },
   {
     "author": "Lena Beispiel",
     "author_url": "https://example.com/autoren/willkommen",
-    "icon": "👋",
+    "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f44b.png",
     "title": "Test 01: Willkommen im Testblog",
     "slug": "test-01-willkommen",
     "date": "2026-10-27",
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg",
     "excerpt": "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung.",
     "path": "posts/first-post.md",
-    "sha": "dddf4f4fd2a7bd407285ab99f2e9a383fdcf3eb1",
-    "updated_at": "2026-11-06T10:06:09+01:00"
+    "sha": "da4b72dbaaf73203243fbf5b10da57a454dcc2e8",
+    "updated_at": "2026-11-06T10:16:46+01:00"
   }
 ]
