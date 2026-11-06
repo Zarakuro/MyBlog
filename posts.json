@@ -1,7 +1,7 @@
 [
   {
     "published_date": "1999-01-01",
-    "author": "Alex Test",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/format-check",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f50e.png",
     "title": "Test 11: Format-Check: Überschriften, Links & Bilder",
@@ -10,12 +10,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg",
     "excerpt": "Der jüngste Testbeitrag kombiniert Textauszeichnung, einen Link und ein Bild mit Größenangaben.",
     "path": "posts/first-post001 - Kopie (9).md",
-    "sha": "455912f535aa2fe7dc21d2b51601f06c735c961c",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "451a39edccab98f956339bae5e53b75a5e2adcbd",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": null,
+    "author": "Zarakuro",
     "author_url": null,
     "icon": null,
     "title": "Test 10: Anonyme Postkarte aus dem Testarchiv",
@@ -24,12 +24,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_9713.jpg",
     "excerpt": "Ein Beispiel ohne Autorenname, Autorenlink und Avatar zur Kontrolle einer reduzierten Beitragskarte.",
     "path": "posts/first-post001 - Kopie (8).md",
-    "sha": "2f3c0e3cd4a3778b4cc9a5a05888af9476cf8059",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "2264f49fc6e157a845ca3edbc9dbe99696a445b2",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": "Jule Platzhalter",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/ideenlabor",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ea.png",
     "title": "Test 09: Notizen aus dem Ideenlabor",
@@ -38,12 +38,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg",
     "excerpt": "Eine Idee nimmt Form an Dies ist Testbeitrag 09 . Die Vorschau dieser Karte wird automatisch aus dem Artikeltext erzeugt. So lässt sich die Ersatzdarstellung oh...",
     "path": "posts/first-post001 - Kopie (7).md",
-    "sha": "0c6d1af8ff9880d3fa7a3775369b1b3be5d4d446",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "35001e3c4dc9ecf9e27780bfb18477e6ff2000af",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": "Ben Demo",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/meeresrauschen",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f30a.png",
     "title": "Test 08: Meeresrauschen in drei Zeilen",
@@ -52,12 +52,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%289%29.jpg",
     "excerpt": "Ein besonders kurzer Testbeitrag für einen schnellen Vergleich mit langen Artikeln.",
     "path": "posts/first-post001 - Kopie (6).md",
-    "sha": "74a35d7be19048165ab787ee37a77a0a8ac116a3",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "1dc114fdda06aa940a4c24ca7c97383f5ec8ad9c",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": "Sara Muster",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/stadtlichter",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f306.png",
     "title": "Test 07: Stadtlichter nach Sonnenuntergang",
@@ -66,12 +66,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2811%29.jpg",
     "excerpt": "Ein längerer Beispielartikel über einen erfundenen Abend zwischen Straßen, Schaufenstern und Lichtern.",
     "path": "posts/first-post001 - Kopie (5).md",
-    "sha": "da5941856bd8f6a11ac5db2902ac3dfdfcb512f6",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "917f0269caff1a2534a1f4ab1d55144f8879bc02",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": "Finn Beispiel",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/herbstfarben",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3a8.png",
     "title": "Test 06: Farben für einen frischen Herbst",
@@ -80,12 +80,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2810%29.jpg",
     "excerpt": "Herbstliche Farbinspiration und ein grünes Waldmotiv bringen Abwechslung in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (4).md",
-    "sha": "cdcd2fb8d9fbdd5393fda5629b6507fc768c0b33",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "6abe145957dab0346c1997a37d223047c3eeb2cb",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": "Emma Test",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/waldspaziergang",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f332.png",
     "title": "Test 05: Waldspaziergang im Sonnenlicht",
@@ -94,12 +94,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%288%29.jpg",
     "excerpt": "Ein Waldmotiv als Cover und ein Bild im Artikel bringen den Spaziergang sichtbar in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (3).md",
-    "sha": "77a55ca2d37b4f263c13bb2903991bd26ba30e07",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "be6e11f1b13ec0db9fe0e24077b6aa9b61275904",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": "Noah Platzhalter",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/kreativer-arbeitsplatz",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png",
     "title": "Test 04: Ein Arbeitsplatz voller Ideen und kleiner kreativer Umwege",
@@ -108,12 +108,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Untitled%20diagram-2025-12-07-215740.png",
     "excerpt": "Ein bewusst längerer Titel und eine ausführlichere Vorschau testen, wie die Beitragskarten mit mehreren Textzeilen und unterschiedlich langen Inhalten umgehen.",
     "path": "posts/first-post001 - Kopie (2).md",
-    "sha": "2c222ad0419e53ab9eb1de349745c16492452703",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "19a5c95532758c2f9919795dc9ab191f3083557c",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": "Mia Demo",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/kaffeepause",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2615.png",
     "title": "Test 03: Kaffeepause: fünf Minuten für neue Ideen",
@@ -122,12 +122,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%287%29.jpg",
     "excerpt": "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch.",
     "path": "posts/first-post001 - Kopie.md",
-    "sha": "815446e08a4d4f957bcaf92f30a1311ecdd8792e",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "6d1564e51267d48ee1aa0ab6858961a495de805c",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": "Tom Muster",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/bergwanderung",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d4.png",
     "title": "Test 02: Bergluft am Morgen",
@@ -136,12 +136,12 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG_1125.jpg",
     "excerpt": "Eine fiktive Wanderung zwischen Gipfeln, frischer Luft und einer kleinen Packliste.",
     "path": "posts/first-post001.md",
-    "sha": "ef2b8a86f12f18e2ac25e7c114430cdb6428dd01",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "9fab9d1188cd0d0aa6b9d21c12ff138b217c26f3",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   },
   {
     "published_date": "1999-01-01",
-    "author": "Lena Beispiel",
+    "author": "Zarakuro",
     "author_url": "https://example.com/autoren/willkommen",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f44b.png",
     "title": "Test 01: Willkommen im Testblog",
@@ -150,7 +150,7 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg",
     "excerpt": "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung.",
     "path": "posts/first-post.md",
-    "sha": "939bd768dc33f5f226f85beab3129846982a49f2",
-    "updated_at": "2026-11-06T10:58:21+01:00"
+    "sha": "b0c3d9d46f743a1043b52e3c636ebce1025ee9e6",
+    "updated_at": "2026-11-06T11:03:17+01:00"
   }
 ]
