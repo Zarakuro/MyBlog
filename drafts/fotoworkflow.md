@@ -4,6 +4,7 @@ slug: "fotoworkflow"
 date: "2026-11-06"
 published_date: "2026-11-06"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f504.png"
+author: "Zarakuro"
 ---
 
 <!--

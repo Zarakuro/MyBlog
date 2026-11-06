@@ -5,7 +5,7 @@ date: "2026-11-06"
 published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg"
 excerpt: "Der jüngste Testbeitrag kombiniert Textauszeichnung, einen Link und ein Bild mit Größenangaben."
-author: "Alex Test"
+author: "Zarakuro"
 author_url: "https://example.com/autoren/format-check"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f50e.png"
 ---

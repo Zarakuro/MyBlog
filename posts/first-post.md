@@ -5,7 +5,7 @@ date: "2026-10-27"
 published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg"
 excerpt: "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung."
-author: "Lena Beispiel"
+author: "Zarakuro"
 author_url: "https://example.com/autoren/willkommen"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f44b.png"
 ---

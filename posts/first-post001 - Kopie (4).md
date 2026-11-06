@@ -5,7 +5,7 @@ date: "2026-11-01"
 published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2810%29.jpg"
 excerpt: "Herbstliche Farbinspiration und ein grünes Waldmotiv bringen Abwechslung in die Testübersicht."
-author: "Finn Beispiel"
+author: "Zarakuro"
 author_url: "https://example.com/autoren/herbstfarben"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3a8.png"
 ---

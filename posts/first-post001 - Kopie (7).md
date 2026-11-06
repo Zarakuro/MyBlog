@@ -4,7 +4,7 @@ slug: "test-09-ideenlabor"
 date: "2026-11-04"
 published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg"
-author: "Jule Platzhalter"
+author: "Zarakuro"
 author_url: "https://example.com/autoren/ideenlabor"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ea.png"
 ---

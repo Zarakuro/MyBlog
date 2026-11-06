@@ -5,7 +5,7 @@ date: "2026-10-29"
 published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%287%29.jpg"
 excerpt: "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch."
-author: "Mia Demo"
+author: "Zarakuro"
 author_url: "https://example.com/autoren/kaffeepause"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2615.png"
 ---

@@ -5,7 +5,7 @@ date: "2026-11-02"
 published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2811%29.jpg"
 excerpt: "Ein längerer Beispielartikel über einen erfundenen Abend zwischen Straßen, Schaufenstern und Lichtern."
-author: "Sara Muster"
+author: "Zarakuro"
 author_url: "https://example.com/autoren/stadtlichter"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f306.png"
 ---

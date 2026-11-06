@@ -4,6 +4,7 @@ slug: "foto-gear-2027"
 date: "2026-11-06"
 published_date: "2026-11-06"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2699.png"
+author: "Zarakuro"
 ---
 
 <!--

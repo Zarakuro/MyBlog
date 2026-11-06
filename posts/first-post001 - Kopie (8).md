@@ -5,7 +5,7 @@ date: "2026-11-05"
 published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_9713.jpg"
 excerpt: "Ein Beispiel ohne Autorenname, Autorenlink und Avatar zur Kontrolle einer reduzierten Beitragskarte."
-author: null
+author: "Zarakuro"
 author_url: null
 icon: null
 ---

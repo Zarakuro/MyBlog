@@ -5,7 +5,7 @@ date: "2026-10-28"
 published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG_1125.jpg"
 excerpt: "Eine fiktive Wanderung zwischen Gipfeln, frischer Luft und einer kleinen Packliste."
-author: "Tom Muster"
+author: "Zarakuro"
 author_url: "https://example.com/autoren/bergwanderung"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d4.png"
 ---
