@@ -1,21 +1,18 @@
 ---
-title: "Test 01: Willkommen im Testblog"
-slug: "test-01-willkommen"
-date: "2026-10-27"
-published_date: "1999-01-01"
+title: "Willkommen auf meinem Fotoblog"
+slug: "willkommen"
+date: "2026-11-06"
+published_date: "2026-11-06"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg"
-excerpt: "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung."
+excerpt: "Ein kleiner Einstieg in meinen Blog über Fotografie, Ausrüstung und den Weg zum fertigen Bild."
 author: "Zarakuro"
-author_url: "https://example.com/autoren/willkommen"
+author_url: "https://zarakuro.de/"
 icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f39e.png"
 ---
 
-## Hallo aus dem Testblog
+## Moin und willkommen!
 
-Dies ist **Testbeitrag 01**. Die Startkarte zeigt einen kurzen Titel und eine kompakte Vorschau.
+Ich bin Zarakuro, kurz Kuro. Hier ist Platz für meine Fototouren, Gedanken zur Ausrüstung und Einblicke in meinen Fotoworkflow.
 
-![Analoge Kamera mit aufgeklapptem Lichtschacht](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg){width=50% round=12px align=center}
-
-### Der erste Eindruck
-
-Hier beginnt die Sammlung verschiedener Testinhalte. Titelbild, Datum und Autorenzeile sollen auf einen Blick erkennbar sein.
+Der Blog wächst nach und nach. Neben ausführlicheren Artikeln wird es auch kleine Notizen, Bilder und Erfahrungen geben, die ich für später festhalten möchte.
+Viel Spaß beim Stöbern!
