@@ -98,6 +98,7 @@ Den vollständigen Inhalt von `carrd-cover-fix.html` als zusätzlichen Carrd-Emb
 
 Der Zusatz ergänzt im geöffneten Artikel:
 
+- **Bildbeschriftungen:** Aufnahmeinformationen direkt unter ein Bild setzen, beginnend mit `**Brennweite:**`. Die nächste Zeile beginnt mit `**Kamera:**`, optional folgt `**Standort:**`. Der Zusatz fasst diese Zeilen als kleine, dezente Bildunterschrift in der Breite des Fotos zusammen. Keine Leerzeilen innerhalb des Datenblocks verwenden; danach mit einer Leerzeile zum Artikeltext zurückkehren.
 - **Tabellen:** Kopfzeile und Trennzeile mit mindestens drei Bindestrichen je Spalte. `:---` richtet links aus, `---:` rechts und `:---:` zentriert. Breite Tabellen lassen sich horizontal scrollen. Ein senkrechter Strich innerhalb einer Zelle kann mit `\|` geschrieben werden.
 - **Codeblöcke:** Drei Backticks oder Tilden vor und nach dem Code, optional mit einem Sprachnamen nach dem öffnenden Trenner. Einrückungen, Zeilenumbrüche und Sonderzeichen bleiben erhalten. Es gibt keine Syntaxhervorhebung.
 - **Zitate:** Jede Zitatzeile mit `>` beginnen; für einen Absatz innerhalb des Zitats eine Zeile mit nur `>` verwenden.

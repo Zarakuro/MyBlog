@@ -167,9 +167,9 @@ Für diesen Blog lautet ein vollständiges Beispiel:
 ![Vogel im Flug](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg){width=80% round=12px align=center}
 ```
 
-![Vogel im Flug über einer offenen Landschaft](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg){width=80% round=12px align=center}
-
 *Formatbeispiel: Die folgenden Aufnahmewerte sind frei gewählt, da diese Bilddatei keine entsprechenden EXIF-Daten enthält.*
+
+![Vogel im Flug über einer offenen Landschaft](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg){width=80% round=12px align=center}
 
 **Brennweite:** 600 mm · **Belichtungszeit:** 1/2000 s · **ISO:** 800
 **Kamera:** Nikon Z6 II · **Objektiv:** NIKKOR Z 180–600 mm f/5,6–6,3 VR
@@ -211,7 +211,9 @@ PNG-Dateien und Diagramme funktionieren mit derselben Syntax wie JPG-Dateien.
 
 Aufnahmeinformationen stehen direkt unter dem Bild im Artikeltext. Sie sind unabhängig vom Metadatenblock am Anfang des Beitrags und können für jedes Foto unterschiedlich sein. Der Blog liest diese Angaben nicht automatisch aus dem Bild aus.
 
-Die feste Reihenfolge lautet **Brennweite → Belichtungszeit → ISO → Kamera → Objektiv → optional Standort**. Die ersten drei Werte stehen in einer Zeile, Kamera und Objektiv in der nächsten. So bleiben die Daten auch bei mehreren Bildern vergleichbar. Das zweizeilige Format funktioniert mit den bereits vorhandenen Textformaten; ein weiterer Carrd-Zusatz ist dafür nicht nötig.
+Die feste Reihenfolge lautet **Brennweite → Belichtungszeit → ISO → Kamera → Objektiv → optional Standort**. Die ersten drei Werte stehen in einer Zeile, Kamera und Objektiv in der nächsten. Der aktuelle Carrd-Zusatz ordnet diese Angaben dem vorangehenden Foto als dezente Bildunterschrift zu: kleiner, farblich zurückgenommen und auf die Breite des Bildes begrenzt.
+
+Beginne die Beschriftung mit `**Brennweite:**` und setze sie direkt unter das Bild. Eine Leerzeile zwischen Bild und Daten ist erlaubt; anderer Fließtext gehört davor oder danach. Kamera und optional Standort folgen ohne Leerzeile innerhalb des Datenblocks. Nach der letzten Datenzeile trennt eine Leerzeile die Beschriftung vom weiteren Artikeltext. Die folgende Vorlage wird also erst dann zur Bildunterschrift, wenn sie unter einem eingebundenen Foto steht.
 
 ```markdown
 **Brennweite:** 85 mm · **Belichtungszeit:** 1/250 s · **ISO:** 200
