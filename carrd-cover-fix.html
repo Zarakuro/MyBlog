@@ -1,0 +1,47 @@
+<!-- In Carrd als Embed (Code / Hidden / Body End) nach dem Blog-Embed einfuegen. -->
+<script>
+(() => {
+  function initBlogCoverFix() {
+    const list = document.querySelector('#gallery04 ul');
+    if (!list) return;
+
+    function revealCovers() {
+      for (const item of list.children) {
+        const link = item.querySelector('a[href]');
+        // Only touch generated blog cards, leaving Carrd's template alone.
+        if (!link || !new URL(link.href, location.href).searchParams.has('slug')) continue;
+
+        const image = item.querySelector('img');
+        if (!image || !/^https?:\/\//i.test(image.getAttribute('src') || '')) continue;
+
+        // Cloned Carrd elements retain the placeholder styles, but lose the
+        // load listener that would normally make the image visible.
+        image.removeAttribute('data-src');
+        image.removeAttribute('data-srcset');
+        image.removeAttribute('srcset');
+        image.removeAttribute('sizes');
+        image.style.opacity = '1';
+        image.style.removeProperty('transition-property');
+        image.style.removeProperty('transition-timing-function');
+        image.style.removeProperty('transition-duration');
+
+        const frame = image.closest('.frame');
+        if (frame) {
+          frame.classList.remove('deferred', 'loading');
+          frame.style.backgroundImage = 'none';
+        }
+      }
+    }
+
+    // Pagination replaces the list items, so apply the fix after each render.
+    new MutationObserver(revealCovers).observe(list, { childList: true });
+    revealCovers();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initBlogCoverFix, { once: true });
+  } else {
+    initBlogCoverFix();
+  }
+})();
+</script>

@@ -6,11 +6,11 @@
     "title": "Test 11: Format-Check: Überschriften, Links & Bilder",
     "slug": "test-11-format-check",
     "date": "2026-11-06",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?fm=jpg&fit=crop&w=1200&h=675&q=80",
     "excerpt": "Der jüngste Testbeitrag kombiniert Textauszeichnung, einen Link und ein Bild mit Größenangaben.",
     "path": "posts/first-post001 - Kopie (9).md",
-    "sha": "fca09cd5551b30e346acdebf6acef2d822e7c768",
-    "updated_at": "2026-11-06T09:32:27+01:00"
+    "sha": "0d03f400f395b55a55754206c51cbfb7708e52c8",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": null,
@@ -19,11 +19,11 @@
     "title": "Test 10: Anonyme Postkarte aus dem Testarchiv",
     "slug": "test-10-anonyme-postkarte",
     "date": "2026-11-05",
-    "cover": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "cover": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?fm=jpg&fit=crop&w=1200&h=675&q=80",
     "excerpt": "Ein Beispiel ohne Autorenname, Autorenlink und Avatar zur Kontrolle einer reduzierten Beitragskarte.",
     "path": "posts/first-post001 - Kopie (8).md",
-    "sha": "7a39d6cc8fd2b3ad13536d8b3a04553b3821a7ec",
-    "updated_at": "2026-11-06T09:30:04+01:00"
+    "sha": "cdcad131e6669db0b445f9d07eb07fead33bd5f4",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": "Jule Platzhalter",
@@ -32,11 +32,11 @@
     "title": "Test 09: Notizen aus dem Ideenlabor",
     "slug": "test-09-ideenlabor",
     "date": "2026-11-04",
-    "cover": "https://images.unsplash.com/photo-1455390582262-044cdead277a",
+    "cover": "https://images.unsplash.com/photo-1455390582262-044cdead277a?fm=jpg&fit=crop&w=1200&h=675&q=80",
     "excerpt": "Eine Idee nimmt Form an Dies ist Testbeitrag 09 . Die Vorschau dieser Karte wird automatisch aus dem Artikeltext erzeugt. So lässt sich die Ersatzdarstellung oh...",
     "path": "posts/first-post001 - Kopie (7).md",
-    "sha": "4823dbb02ba17a5a02f2fa5259113a201c8ed4a7",
-    "updated_at": "2026-11-06T09:30:04+01:00"
+    "sha": "bfc78090271adfc8393862e6be6d6cee265651fd",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": "Ben Demo",
@@ -45,11 +45,11 @@
     "title": "Test 08: Meeresrauschen in drei Zeilen",
     "slug": "test-08-meeresrauschen",
     "date": "2026-11-03",
-    "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&fit=crop&w=1200&h=675&q=80",
     "excerpt": "Ein besonders kurzer Testbeitrag für einen schnellen Vergleich mit langen Artikeln.",
     "path": "posts/first-post001 - Kopie (6).md",
-    "sha": "0a6475cb7be189ce221acf3f9a905043ce7fbeb3",
-    "updated_at": "2026-11-06T09:30:04+01:00"
+    "sha": "4cf63e306bf5e92155c545ba196e4ecb0cc00a69",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": "Sara Muster",
@@ -58,11 +58,11 @@
     "title": "Test 07: Stadtlichter nach Sonnenuntergang",
     "slug": "test-07-stadtlichter",
     "date": "2026-11-02",
-    "cover": "https://images.unsplash.com/photo-1519608487953-e999c86e7455",
+    "cover": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?fm=jpg&fit=crop&w=1200&h=675&q=80",
     "excerpt": "Ein längerer Beispielartikel über einen erfundenen Abend zwischen Straßen, Schaufenstern und Lichtern.",
     "path": "posts/first-post001 - Kopie (5).md",
-    "sha": "d0d31f431b6a2435b67b8cc095f260af5593f5be",
-    "updated_at": "2026-11-06T09:30:04+01:00"
+    "sha": "1f909d19dfc5a65f98cad73ccab73aea2c45052c",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": "Finn Beispiel",
@@ -71,24 +71,24 @@
     "title": "Test 06: Farben für einen frischen Herbst",
     "slug": "test-06-herbstfarben",
     "date": "2026-11-01",
-    "cover": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
-    "excerpt": "Orange, Gold und dunkles Grün bringen Abwechslung in die Testübersicht.",
+    "cover": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "excerpt": "Herbstliche Farbinspiration und ein grünes Waldmotiv bringen Abwechslung in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (4).md",
-    "sha": "26a6cb8d5bf5418cb6ca8f7a22e0706a4a4d6276",
-    "updated_at": "2026-11-06T09:30:04+01:00"
+    "sha": "5d8954edcb7df0739077dc0ccca51c889532cac5",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": "Emma Test",
     "author_url": "https://example.com/autoren/waldspaziergang",
     "icon": "🌲",
-    "title": "Test 05: Waldspaziergang ohne Titelbild",
+    "title": "Test 05: Waldspaziergang im Sonnenlicht",
     "slug": "test-05-waldspaziergang",
     "date": "2026-10-31",
-    "cover": "",
-    "excerpt": "Diese Karte kommt ohne Cover aus und zeigt, wie reine Textbeiträge in der Übersicht wirken.",
+    "cover": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "excerpt": "Ein Waldmotiv als Cover und ein Bild im Artikel bringen den Spaziergang sichtbar in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (3).md",
-    "sha": "52363cf7bbed0ac8d5e46e2433857872ef74749e",
-    "updated_at": "2026-11-06T09:30:04+01:00"
+    "sha": "218b830963c97267df73e296d9a86b3c48f5019f",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": "Noah Platzhalter",
@@ -97,11 +97,11 @@
     "title": "Test 04: Ein Arbeitsplatz voller Ideen und kleiner kreativer Umwege",
     "slug": "test-04-kreativer-arbeitsplatz",
     "date": "2026-10-30",
-    "cover": "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
+    "cover": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?fm=jpg&fit=crop&w=1200&h=675&q=80",
     "excerpt": "Ein bewusst längerer Titel und eine ausführlichere Vorschau testen, wie die Beitragskarten mit mehreren Textzeilen und unterschiedlich langen Inhalten umgehen.",
     "path": "posts/first-post001 - Kopie (2).md",
-    "sha": "1045b4aceeabd8f293e130e3334de8b973d0b403",
-    "updated_at": "2026-11-06T09:30:04+01:00"
+    "sha": "b3c64ce4882b448d7b65a1a923f6717c4e1a3aa5",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": "Mia Demo",
@@ -110,11 +110,11 @@
     "title": "Test 03: Kaffeepause: fünf Minuten für neue Ideen",
     "slug": "test-03-kaffeepause",
     "date": "2026-10-29",
-    "cover": "https://images.unsplash.com/photo-1447933601403-0c6688de566e",
+    "cover": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?fm=jpg&fit=crop&w=1200&h=675&q=80",
     "excerpt": "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch.",
     "path": "posts/first-post001 - Kopie.md",
-    "sha": "8f689097688e5fc3e68103b5fcdc94ecce8e733c",
-    "updated_at": "2026-11-06T09:30:52+01:00"
+    "sha": "d70ef8d4807ccc5c1fce49fbb8f2e013a151922f",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": "Tom Muster",
@@ -123,11 +123,11 @@
     "title": "Test 02: Bergluft am Morgen",
     "slug": "test-02-bergwanderung",
     "date": "2026-10-28",
-    "cover": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+    "cover": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?fm=jpg&fit=crop&w=1200&h=675&q=80",
     "excerpt": "Eine fiktive Wanderung zwischen Gipfeln, frischer Luft und einer kleinen Packliste.",
     "path": "posts/first-post001.md",
-    "sha": "a68672d291a7b6bdf137b648d0c5ff119f16ef7c",
-    "updated_at": "2026-11-06T09:30:04+01:00"
+    "sha": "31e930085eeec18000c417e03e321393631dee6a",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   },
   {
     "author": "Lena Beispiel",
@@ -136,10 +136,10 @@
     "title": "Test 01: Willkommen im Testblog",
     "slug": "test-01-willkommen",
     "date": "2026-10-27",
-    "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
+    "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?fm=jpg&fit=crop&w=1200&h=675&q=80",
     "excerpt": "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung.",
     "path": "posts/first-post.md",
-    "sha": "1250fc4244929ee5ded820f971028ea4082bae19",
-    "updated_at": "2026-11-05T15:14:18+01:00"
+    "sha": "a795a6265daf5733a2ee9d1c8178d5289654c2fe",
+    "updated_at": "2026-11-06T09:48:50+01:00"
   }
 ]
