@@ -89,3 +89,24 @@ You can optionally add `{}` to control image width, round and alignment. These s
 ### Line Breaks
 
 Line breaks(Enter) work normally on your Carrd website. However, they may not appear in GitHub's preview when you press Enter. If the preview looks different from what you expected, try adding two spaces at the end of a line before pressing Enter. This is optional and only affects the GitHub preview.
+
+## 4. Zusätzliche Blockformate mit dem Carrd-Zusatz
+
+Den vollständigen Inhalt von `carrd-cover-fix.html` als zusätzlichen Carrd-Embed unter **Code / Hidden / Body End** nach dem Blog-Embed einfügen und veröffentlichen. Das externe `embed.js` bleibt unverändert.
+
+`carrd-cover-fix.html` ist die einzige HTML-Datei für den Zusatz. Sie ist kompakt und mehrzeilig formatiert, damit sie sich im Editor kopieren lässt und unter Carrds Grenze von 16.384 Zeichen pro Embed bleibt. Immer den gesamten bisherigen Zusatz ersetzen und prüfen, dass am Ende `</script>` steht. Bei Änderungen auf die Gesamtzeichenzahl einschließlich Zeilenumbrüchen achten. Zusätzlichen Code in einem eigenen Embed ablegen, damit der Zusatz nicht abgeschnitten wird.
+
+Der Zusatz ergänzt im geöffneten Artikel:
+
+- **Tabellen:** Kopfzeile und Trennzeile mit mindestens drei Bindestrichen je Spalte. `:---` richtet links aus, `---:` rechts und `:---:` zentriert. Breite Tabellen lassen sich horizontal scrollen. Ein senkrechter Strich innerhalb einer Zelle kann mit `\|` geschrieben werden.
+- **Codeblöcke:** Drei Backticks oder Tilden vor und nach dem Code, optional mit einem Sprachnamen nach dem öffnenden Trenner. Einrückungen, Zeilenumbrüche und Sonderzeichen bleiben erhalten. Es gibt keine Syntaxhervorhebung.
+- **Zitate:** Jede Zitatzeile mit `>` beginnen; für einen Absatz innerhalb des Zitats eine Zeile mit nur `>` verwenden.
+- **Aufgabenlisten:** `- [ ]` für offen und `- [x]` für erledigt. Die Kästchen sind eine Anzeige des gespeicherten Zustands und im Artikel nicht bearbeitbar.
+- **Fußnoten:** Mit `[^name]` auf eine Erklärung verweisen und sie an beliebiger Stelle außerhalb von Codeblöcken mit `[^name]: Erklärung` definieren. Die Erklärungen erscheinen am Artikelende mit Rücksprunglinks. Mehrere Verweise auf dieselbe Fußnote sind möglich. Fortsetzungszeilen mit vier Leerzeichen einrücken.
+- **Kopierlinks:** `[Text kopieren](copy:Inhalt)` und `[Text kopieren](clipboard:Inhalt)` kopieren den angegebenen Inhalt in die Zwischenablage. Der Zusatz zeigt Erfolg oder einen blockierten Zugriff an. Beide Varianten lassen sich auch mit Enter oder Leertaste auslösen.
+
+- **Horizontale Trennlinien:** `---`, `***` oder `___` in einer eigenen Zeile schreiben. Innerhalb eines Codeblocks bleiben diese Zeichen unverändert. Ein vorangestellter Backslash ist dafür nicht nötig.
+
+Ein vollständiges Beispiel steht in `posts/test-12-formatierungsbeispiele.md`. Normale Listen werden durch diesen Zusatz nicht ergänzt. HTML wird weiterhin als Text behandelt. Eine nackte URL wird nicht automatisch verlinkt; dafür die Schreibweise `[Beschriftung](https://example.com)` verwenden.
+
+Der Zusatz lädt den Markdown-Quelltext des geöffneten Beitrags zusätzlich aus GitHub und verwendet für die bisherigen Text-, Bild- und Linkformate weiterhin das `markdown.js` des eingebundenen Blog-Embeds. Bei einem Ladefehler bleibt die ursprüngliche Artikelanzeige erhalten. Galerie und Sortierung werden nicht verändert. `posts.json` wird ausschließlich von der GitHub Action erzeugt.
