@@ -45,4 +45,4 @@ Beiträge ohne `published_date` funktionieren weiter mit der bisherigen Datumsan
 
 Den gesamten aktuellen Inhalt von `carrd-cover-fix.html` in den bestehenden Zusatz-Embed in Carrd übernehmen und die Seite erneut veröffentlichen. Der externe Blog-Embed bleibt unverändert.
 
-Der Zusatz zeigt die Datumsangaben in der Blogübersicht und im geöffneten Artikel an. Die GitHub Action übernimmt `published_date` aus den Markdown-Metadaten automatisch in ihren Index.
+Der Zusatz zeigt die beiden Datumsangaben nur im geöffneten Artikel an. Die Galerieübersicht behält ihre bisherige Datumsanzeige und sortiert weiterhin nach `date`. Die GitHub Action übernimmt `published_date` aus den Markdown-Metadaten automatisch in ihren Index.

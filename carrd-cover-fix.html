@@ -93,7 +93,6 @@
   function initBlogDates() {
     const embed = document.querySelector('script[src*="/pk-blog-embed@"][data-owner][data-repo]');
     const dateElement = document.getElementById(embed?.dataset.date || 'text84');
-    const list = document.querySelector('#gallery04 ul');
     const formatter = new Intl.DateTimeFormat('de-DE', {
       day: '2-digit', month: '2-digit', year: 'numeric', timeZone: 'UTC',
     });
@@ -121,15 +120,6 @@
       if (!Array.isArray(posts)) return;
       const bySlug = new Map(posts.map(post => [post.slug, post]));
 
-      for (const item of list?.children || []) {
-        const link = item.querySelector('a[href]');
-        const slug = link && new URL(link.href, location.href).searchParams.get('slug');
-        const post = bySlug.get(slug);
-        const date = item.querySelector('.caption p > span');
-        const label = post && dateLabel(post);
-        if (date && label && date.textContent !== label) date.textContent = label;
-      }
-
       const slug = new URL(location.href).searchParams.get('slug');
       const post = bySlug.get(slug);
       const author = dateElement?.querySelector('.blog-author');
@@ -151,7 +141,6 @@
     }
 
     const observer = new MutationObserver(updateDates);
-    if (list) observer.observe(list, { childList: true });
     if (dateElement) observer.observe(dateElement, { childList: true });
     updateDates();
   }

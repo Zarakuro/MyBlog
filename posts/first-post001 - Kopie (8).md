@@ -2,7 +2,7 @@
 title: "Test 10: Anonyme Postkarte aus dem Testarchiv"
 slug: "test-10-anonyme-postkarte"
 date: "2026-11-05"
-published_date: "1999-01-01"
+published_date: "2026-11-05"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_9713.jpg"
 excerpt: "Ein Beispiel ohne Autorenname, Autorenlink und Avatar zur Kontrolle einer reduzierten Beitragskarte."
 author: "Zarakuro"

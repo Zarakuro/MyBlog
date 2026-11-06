@@ -2,7 +2,7 @@
 title: "Test 11: Format-Check: Überschriften, Links & Bilder"
 slug: "test-11-format-check"
 date: "2026-11-06"
-published_date: "1999-01-01"
+published_date: "2026-11-06"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg"
 excerpt: "Der jüngste Testbeitrag kombiniert Textauszeichnung, einen Link und ein Bild mit Größenangaben."
 author: "Zarakuro"
