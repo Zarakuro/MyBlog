@@ -207,6 +207,14 @@ Für die Breite sind Prozent, Pixel, `em` und `rem` möglich. Bei der Ausrichtun
 
 PNG-Dateien und Diagramme funktionieren mit derselben Syntax wie JPG-Dateien.
 
+### Fotos groß ansehen
+
+Ein Klick auf ein Artikelbild öffnet die Fotoansicht. Zunächst wird das vollständige Bild passend zum Bildschirm angezeigt. Ein weiterer Klick auf das Foto wechselt zur Originalgröße; über die Scrollleisten kannst du dann den gewünschten Ausschnitt ansehen. Noch einmal klicken passt das Bild wieder in die Ansicht ein.
+
+Mit Escape, „Schließen“ oder einem Klick auf den freien Hintergrund der Fotoansicht kehrst du zum Artikel zurück. Per Tastatur kannst du ein Artikelbild mit Tab auswählen und mit Enter oder Leertaste öffnen.
+
+Für diese Funktion ist keine zusätzliche Bildsyntax nötig. Die Fotoansicht lädt dieselbe Bilddatei wie der Artikel. Eine hochauflösende Datei bietet deshalb mehr Details beim Vergrößern; eine kleine Datei erhält dadurch keine zusätzlichen Bildinformationen. Der Rechtsklick- und Ziehschutz gilt auch für das Bild in der Fotoansicht.
+
 ### Aufnahmeinformationen unter einem Foto
 
 Aufnahmeinformationen stehen direkt unter dem Bild im Artikeltext. Sie sind unabhängig vom Metadatenblock am Anfang des Beitrags und können für jedes Foto unterschiedlich sein. Der Blog liest diese Angaben nicht automatisch aus dem Bild aus.
@@ -433,7 +441,9 @@ Zurück und Vorwärts hängen vom vorhandenen Browserverlauf ab. Prüfe solche A
 
 Tabellen, Codeblöcke, Zitate, Aufgabenlisten, Trennlinien, Fußnoten, Spoiler und Kopierlinks benötigen den aktuellen Carrd-Zusatz. Übernimm dafür den vollständigen Inhalt von `carrd-cover-fix.html` als Embed unter **Code / Hidden / Body End** nach dem Blog-Embed und veröffentliche die Carrd-Seite erneut.
 
-Ersetze den bisherigen Zusatz vollständig. Carrd begrenzt den Code pro Embed auf 16.384 Zeichen. Am Dateiende muss `</script>` stehen; abgeschnittener Code startet nicht korrekt. Die Datei im Repository ist deshalb kompakt und auf mehrere kurze Zeilen verteilt.
+Ersetze den bisherigen Zusatz vollständig. Die HTML-Datei enthält einen kleinen Loader für `blog-enhancements.js`. Diese JavaScript-Datei muss zuerst im Hauptverzeichnis des öffentlichen GitHub-Repositories liegen. Für ein anderes Repository muss die Ladeadresse in der HTML-Datei angepasst werden. Weitere Änderungen an der JavaScript-Datei werden über GitHub veröffentlicht.
+
+Carrd begrenzt den Code pro Embed auf 16.384 Zeichen; der Loader bleibt deutlich darunter. Am Dateiende muss `</script>` stehen. Der externe Blog-Embed bleibt zusätzlich eingebunden.
 
 ### Ein Bild fehlt
 
