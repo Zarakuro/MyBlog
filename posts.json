@@ -1,6 +1,6 @@
 [
   {
-    "published_date": "1999-01-01",
+    "published_date": "2026-11-06",
     "author": "Zarakuro",
     "author_url": "https://example.com/autoren/format-check",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f50e.png",
@@ -10,11 +10,11 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg",
     "excerpt": "Der jüngste Testbeitrag kombiniert Textauszeichnung, einen Link und ein Bild mit Größenangaben.",
     "path": "posts/first-post001 - Kopie (9).md",
-    "sha": "451a39edccab98f956339bae5e53b75a5e2adcbd",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "sha": "91bb83a12a7f22ab74b8be21c5b90431a6f24c7f",
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
-    "published_date": "1999-01-01",
+    "published_date": "2026-11-05",
     "author": "Zarakuro",
     "author_url": null,
     "icon": null,
@@ -24,11 +24,11 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_9713.jpg",
     "excerpt": "Ein Beispiel ohne Autorenname, Autorenlink und Avatar zur Kontrolle einer reduzierten Beitragskarte.",
     "path": "posts/first-post001 - Kopie (8).md",
-    "sha": "2264f49fc6e157a845ca3edbc9dbe99696a445b2",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "sha": "de4f0844dc2f76b0e2e342087e70fc205d114313",
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
-    "published_date": "1999-01-01",
+    "published_date": "2026-11-04",
     "author": "Zarakuro",
     "author_url": "https://example.com/autoren/ideenlabor",
     "icon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ea.png",
@@ -38,8 +38,8 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg",
     "excerpt": "Eine Idee nimmt Form an Dies ist Testbeitrag 09 . Die Vorschau dieser Karte wird automatisch aus dem Artikeltext erzeugt. So lässt sich die Ersatzdarstellung oh...",
     "path": "posts/first-post001 - Kopie (7).md",
-    "sha": "35001e3c4dc9ecf9e27780bfb18477e6ff2000af",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "sha": "659d1888613d549eb6c4a32ff6f12ecc3273471b",
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -53,7 +53,7 @@
     "excerpt": "Ein besonders kurzer Testbeitrag für einen schnellen Vergleich mit langen Artikeln.",
     "path": "posts/first-post001 - Kopie (6).md",
     "sha": "1dc114fdda06aa940a4c24ca7c97383f5ec8ad9c",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -67,7 +67,7 @@
     "excerpt": "Ein längerer Beispielartikel über einen erfundenen Abend zwischen Straßen, Schaufenstern und Lichtern.",
     "path": "posts/first-post001 - Kopie (5).md",
     "sha": "917f0269caff1a2534a1f4ab1d55144f8879bc02",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -81,7 +81,7 @@
     "excerpt": "Herbstliche Farbinspiration und ein grünes Waldmotiv bringen Abwechslung in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (4).md",
     "sha": "6abe145957dab0346c1997a37d223047c3eeb2cb",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -95,7 +95,7 @@
     "excerpt": "Ein Waldmotiv als Cover und ein Bild im Artikel bringen den Spaziergang sichtbar in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (3).md",
     "sha": "be6e11f1b13ec0db9fe0e24077b6aa9b61275904",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -109,7 +109,7 @@
     "excerpt": "Ein bewusst längerer Titel und eine ausführlichere Vorschau testen, wie die Beitragskarten mit mehreren Textzeilen und unterschiedlich langen Inhalten umgehen.",
     "path": "posts/first-post001 - Kopie (2).md",
     "sha": "19a5c95532758c2f9919795dc9ab191f3083557c",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -123,7 +123,7 @@
     "excerpt": "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch.",
     "path": "posts/first-post001 - Kopie.md",
     "sha": "6d1564e51267d48ee1aa0ab6858961a495de805c",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -137,7 +137,7 @@
     "excerpt": "Eine fiktive Wanderung zwischen Gipfeln, frischer Luft und einer kleinen Packliste.",
     "path": "posts/first-post001.md",
     "sha": "9fab9d1188cd0d0aa6b9d21c12ff138b217c26f3",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "updated_at": "2026-11-06T11:08:54+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -151,6 +151,6 @@
     "excerpt": "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung.",
     "path": "posts/first-post.md",
     "sha": "b0c3d9d46f743a1043b52e3c636ebce1025ee9e6",
-    "updated_at": "2026-11-06T11:03:17+01:00"
+    "updated_at": "2026-11-06T11:08:54+01:00"
   }
 ]
