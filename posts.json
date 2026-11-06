@@ -10,7 +10,7 @@
     "excerpt": "Ein Überblick darüber, wie ich meine Fotos zu Hause organisiere, archiviere und sichere – mit Einblicken in meinen Aufbau und meine Erfahrungen.",
     "path": "posts/datenspeicherung-organisation-und-backups.md",
     "sha": "2ecfa3cc2b3bf969a861e68737c9de34c6bdd403",
-    "updated_at": "2026-11-06T16:59:51+01:00"
+    "updated_at": "2026-11-06T17:06:05+01:00"
   },
   {
     "published_date": "2026-11-06",
@@ -19,11 +19,11 @@
     "title": "Foto-Sicherungssystem für unterwegs",
     "slug": "foto-sicherungssystem-fuer-unterwegs",
     "date": "2026-11-06",
-    "cover": "",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/cover-foto-backup-unterwegs.png",
     "excerpt": "Wie ich meine Fotos auf Reisen sichere, welche Ausrüstung ich dafür nutze und wie mein täglicher Ablauf aussieht.",
     "path": "posts/foto-sicherungssystem-fuer-unterwegs.md",
-    "sha": "994a713abd591ed2d86fc04d2878b37057421e90",
-    "updated_at": "2026-11-06T16:59:51+01:00"
+    "sha": "bb5fdb63ba08509780fd63479c7eea52fb26748d",
+    "updated_at": "2026-11-06T17:06:05+01:00"
   },
   {
     "published_date": "2026-11-06",
@@ -37,7 +37,7 @@
     "excerpt": "Vom Entwurf zum veröffentlichten Artikel: eine praktische Anleitung für Metadaten, Markdown, Bilder, Tabellen, Fußnoten und die Funktionen dieses Carrd-Blogs.",
     "path": "posts/test-12-formatierungsbeispiele.md",
     "sha": "a2dcedffeb06e07dea5fb113e92e6c901b022dd6",
-    "updated_at": "2026-11-06T16:59:51+01:00"
+    "updated_at": "2026-11-06T17:06:05+01:00"
   },
   {
     "published_date": "2026-11-06",
@@ -51,6 +51,6 @@
     "excerpt": "Ein kleiner Einstieg in meinen Blog über Fotografie, Ausrüstung und den Weg zum fertigen Bild.",
     "path": "posts/first-post.md",
     "sha": "fec55dcd08092c89fad27f9906a430beed3ef05a",
-    "updated_at": "2026-11-06T16:59:51+01:00"
+    "updated_at": "2026-11-06T17:06:05+01:00"
   }
 ]
