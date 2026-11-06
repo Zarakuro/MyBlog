@@ -14,7 +14,7 @@ icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f44b.png
 
 Dies ist **Testbeitrag 01**. Die Startkarte zeigt einen kurzen Titel und eine kompakte Vorschau.
 
-![Analoge Kamera mit aufgeklapptem Lichtschacht](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg){width=80% round=12px align=center}
+![Analoge Kamera mit aufgeklapptem Lichtschacht](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg){width=50% round=12px align=center}
 
 ### Der erste Eindruck
 

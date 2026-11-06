@@ -14,7 +14,7 @@ icon: null
 
 Dies ist **Testbeitrag 10**. Diese fiktive Postkarte bleibt anonym.
 
-![Dunkler Rucksack im Schnee an einem Baum](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_9713.jpg){width=80% round=12px align=center}
+![Dunkler Rucksack im Schnee an einem Baum](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_9713.jpg){width=50% round=12px align=center}
 
 ### Eine kleine Nachricht
 

@@ -14,7 +14,7 @@ icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d4.png
 
 Dies ist **Testbeitrag 02**. Noch vor Sonnenaufgang startet unsere erfundene Tour in die Berge.
 
-![Fotorucksack auf felsigem Untergrund](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG_1125.jpg){width=80% round=12px align=center}
+![Fotorucksack auf felsigem Untergrund](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG_1125.jpg){width=50% round=12px align=center}
 
 ### Im Rucksack
 

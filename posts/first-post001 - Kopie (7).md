@@ -13,7 +13,7 @@ icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ea.png
 
 Dies ist **Testbeitrag 09**. Die Vorschau dieser Karte wird automatisch aus dem Artikeltext erzeugt. So lässt sich die Ersatzdarstellung ohne eigenes Excerpt prüfen.
 
-![Grüner Fotorucksack vor einer Backsteinwand](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg){width=80% round=12px align=center}
+![Grüner Fotorucksack vor einer Backsteinwand](https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg){width=50% round=12px align=center}
 
 ### Vom Gedanken zur Skizze
 
