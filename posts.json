@@ -10,8 +10,8 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg",
     "excerpt": "Der jüngste Testbeitrag kombiniert Textauszeichnung, einen Link und ein Bild mit Größenangaben.",
     "path": "posts/first-post001 - Kopie (9).md",
-    "sha": "91bb83a12a7f22ab74b8be21c5b90431a6f24c7f",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "sha": "ceea2d323675b588141e73e89b860b8b465c8cbe",
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "2026-11-05",
@@ -24,8 +24,8 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_9713.jpg",
     "excerpt": "Ein Beispiel ohne Autorenname, Autorenlink und Avatar zur Kontrolle einer reduzierten Beitragskarte.",
     "path": "posts/first-post001 - Kopie (8).md",
-    "sha": "de4f0844dc2f76b0e2e342087e70fc205d114313",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "sha": "dd057a885bd426a971f3398a947227c4a5b42e73",
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "2026-11-04",
@@ -38,8 +38,8 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg",
     "excerpt": "Eine Idee nimmt Form an Dies ist Testbeitrag 09 . Die Vorschau dieser Karte wird automatisch aus dem Artikeltext erzeugt. So lässt sich die Ersatzdarstellung oh...",
     "path": "posts/first-post001 - Kopie (7).md",
-    "sha": "659d1888613d549eb6c4a32ff6f12ecc3273471b",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "sha": "e598b76a9c8ecdaeb581d81712ca4bb41f5f951f",
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -53,7 +53,7 @@
     "excerpt": "Ein besonders kurzer Testbeitrag für einen schnellen Vergleich mit langen Artikeln.",
     "path": "posts/first-post001 - Kopie (6).md",
     "sha": "1dc114fdda06aa940a4c24ca7c97383f5ec8ad9c",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -66,8 +66,8 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2811%29.jpg",
     "excerpt": "Ein längerer Beispielartikel über einen erfundenen Abend zwischen Straßen, Schaufenstern und Lichtern.",
     "path": "posts/first-post001 - Kopie (5).md",
-    "sha": "917f0269caff1a2534a1f4ab1d55144f8879bc02",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "sha": "02de16780e47f8ce8c40bb0a2029d33e9eb17c27",
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -80,8 +80,8 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2810%29.jpg",
     "excerpt": "Herbstliche Farbinspiration und ein grünes Waldmotiv bringen Abwechslung in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (4).md",
-    "sha": "6abe145957dab0346c1997a37d223047c3eeb2cb",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "sha": "cad0d5ae7d145ee82fe9c58431a2cc6eae3f4548",
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -95,7 +95,7 @@
     "excerpt": "Ein Waldmotiv als Cover und ein Bild im Artikel bringen den Spaziergang sichtbar in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (3).md",
     "sha": "be6e11f1b13ec0db9fe0e24077b6aa9b61275904",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -108,8 +108,8 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Untitled%20diagram-2025-12-07-215740.png",
     "excerpt": "Ein bewusst längerer Titel und eine ausführlichere Vorschau testen, wie die Beitragskarten mit mehreren Textzeilen und unterschiedlich langen Inhalten umgehen.",
     "path": "posts/first-post001 - Kopie (2).md",
-    "sha": "19a5c95532758c2f9919795dc9ab191f3083557c",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "sha": "cd77768d51f1c4b4affc166e268b0ec0175b237b",
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -122,8 +122,8 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%287%29.jpg",
     "excerpt": "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch.",
     "path": "posts/first-post001 - Kopie.md",
-    "sha": "6d1564e51267d48ee1aa0ab6858961a495de805c",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "sha": "a59363a4b5de8bfaf29bb6fc4df8059f09b837ab",
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -137,7 +137,7 @@
     "excerpt": "Eine fiktive Wanderung zwischen Gipfeln, frischer Luft und einer kleinen Packliste.",
     "path": "posts/first-post001.md",
     "sha": "9fab9d1188cd0d0aa6b9d21c12ff138b217c26f3",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "updated_at": "2026-11-06T11:20:36+01:00"
   },
   {
     "published_date": "1999-01-01",
@@ -150,7 +150,7 @@
     "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg",
     "excerpt": "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung.",
     "path": "posts/first-post.md",
-    "sha": "b0c3d9d46f743a1043b52e3c636ebce1025ee9e6",
-    "updated_at": "2026-11-06T11:08:54+01:00"
+    "sha": "12e38b7c3db50dca6c894204c0e40f1b52d1062a",
+    "updated_at": "2026-11-06T11:20:36+01:00"
   }
 ]
