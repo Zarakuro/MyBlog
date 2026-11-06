@@ -6,11 +6,11 @@
     "title": "Test 11: Format-Check: Überschriften, Links & Bilder",
     "slug": "test-11-format-check",
     "date": "2026-11-06",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2812%29.jpg",
     "excerpt": "Der jüngste Testbeitrag kombiniert Textauszeichnung, einen Link und ein Bild mit Größenangaben.",
     "path": "posts/first-post001 - Kopie (9).md",
-    "sha": "184abdfb000fe08c4419e9fcaeb01f623e1f23f5",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "48e4f849f5310f027b50d687536f567c40ad74cc",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": null,
@@ -19,11 +19,11 @@
     "title": "Test 10: Anonyme Postkarte aus dem Testarchiv",
     "slug": "test-10-anonyme-postkarte",
     "date": "2026-11-05",
-    "cover": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_9713.jpg",
     "excerpt": "Ein Beispiel ohne Autorenname, Autorenlink und Avatar zur Kontrolle einer reduzierten Beitragskarte.",
     "path": "posts/first-post001 - Kopie (8).md",
-    "sha": "0e208b90a144b4667af3a7331e62c07b419ea3d2",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "91029f18d8f388deafe5003d3847ecb3e1a853a4",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": "Jule Platzhalter",
@@ -32,11 +32,11 @@
     "title": "Test 09: Notizen aus dem Ideenlabor",
     "slug": "test-09-ideenlabor",
     "date": "2026-11-04",
-    "cover": "https://images.unsplash.com/photo-1455390582262-044cdead277a?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg",
     "excerpt": "Eine Idee nimmt Form an Dies ist Testbeitrag 09 . Die Vorschau dieser Karte wird automatisch aus dem Artikeltext erzeugt. So lässt sich die Ersatzdarstellung oh...",
     "path": "posts/first-post001 - Kopie (7).md",
-    "sha": "25b81e518fba84b558ad3f912e7e9f9fb37689b0",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "3188fbc102eac1663b1e19e439bec28149148cb9",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": "Ben Demo",
@@ -45,11 +45,11 @@
     "title": "Test 08: Meeresrauschen in drei Zeilen",
     "slug": "test-08-meeresrauschen",
     "date": "2026-11-03",
-    "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%289%29.jpg",
     "excerpt": "Ein besonders kurzer Testbeitrag für einen schnellen Vergleich mit langen Artikeln.",
     "path": "posts/first-post001 - Kopie (6).md",
-    "sha": "810e619c9dcff81316c983fafcccc3cb3f876c73",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "178373472c8c9dc30007051dc39f2f1b8738bc45",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": "Sara Muster",
@@ -58,11 +58,11 @@
     "title": "Test 07: Stadtlichter nach Sonnenuntergang",
     "slug": "test-07-stadtlichter",
     "date": "2026-11-02",
-    "cover": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2811%29.jpg",
     "excerpt": "Ein längerer Beispielartikel über einen erfundenen Abend zwischen Straßen, Schaufenstern und Lichtern.",
     "path": "posts/first-post001 - Kopie (5).md",
-    "sha": "0553d46355b924165a722c99ec28eb2ce48bd1df",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "59a4c0ac1c88bb0f355d5c4cdb85c6626b9c1bff",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": "Finn Beispiel",
@@ -71,11 +71,11 @@
     "title": "Test 06: Farben für einen frischen Herbst",
     "slug": "test-06-herbstfarben",
     "date": "2026-11-01",
-    "cover": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2810%29.jpg",
     "excerpt": "Herbstliche Farbinspiration und ein grünes Waldmotiv bringen Abwechslung in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (4).md",
-    "sha": "a761b9aaaa580230c1863fd62848da6d77249ed5",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "16d0f7e1ca3c7a95bb928a183f30c6339b33246f",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": "Emma Test",
@@ -84,11 +84,11 @@
     "title": "Test 05: Waldspaziergang im Sonnenlicht",
     "slug": "test-05-waldspaziergang",
     "date": "2026-10-31",
-    "cover": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%288%29.jpg",
     "excerpt": "Ein Waldmotiv als Cover und ein Bild im Artikel bringen den Spaziergang sichtbar in die Testübersicht.",
     "path": "posts/first-post001 - Kopie (3).md",
-    "sha": "0ba95b0f9e5a7a5b818d3ab0bf62b6ca09c26c0f",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "41f6357e569e85beafd05151e5c22548d4f4e3e6",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": "Noah Platzhalter",
@@ -97,11 +97,11 @@
     "title": "Test 04: Ein Arbeitsplatz voller Ideen und kleiner kreativer Umwege",
     "slug": "test-04-kreativer-arbeitsplatz",
     "date": "2026-10-30",
-    "cover": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Untitled%20diagram-2025-12-07-215740.png",
     "excerpt": "Ein bewusst längerer Titel und eine ausführlichere Vorschau testen, wie die Beitragskarten mit mehreren Textzeilen und unterschiedlich langen Inhalten umgehen.",
     "path": "posts/first-post001 - Kopie (2).md",
-    "sha": "58e5e9c0df502e813e5c0ae670810e64d9e7b374",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "bab638382ddd8395cb8600f546724b380f8ef7eb",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": "Mia Demo",
@@ -110,11 +110,11 @@
     "title": "Test 03: Kaffeepause: fünf Minuten für neue Ideen",
     "slug": "test-03-kaffeepause",
     "date": "2026-10-29",
-    "cover": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%287%29.jpg",
     "excerpt": "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch.",
     "path": "posts/first-post001 - Kopie.md",
-    "sha": "ad6f3bd2bfad7497ee2abd149d05a2f11433a135",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "ca93f2930731156b3b7840bf1b6348c75d616839",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": "Tom Muster",
@@ -123,11 +123,11 @@
     "title": "Test 02: Bergluft am Morgen",
     "slug": "test-02-bergwanderung",
     "date": "2026-10-28",
-    "cover": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG_1125.jpg",
     "excerpt": "Eine fiktive Wanderung zwischen Gipfeln, frischer Luft und einer kleinen Packliste.",
     "path": "posts/first-post001.md",
-    "sha": "b17a4a20386431e13079bc6fe80242cc3ae214c1",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "cb0ea1ee667767ec105156f3547599f6c74ec538",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   },
   {
     "author": "Lena Beispiel",
@@ -136,10 +136,10 @@
     "title": "Test 01: Willkommen im Testblog",
     "slug": "test-01-willkommen",
     "date": "2026-10-27",
-    "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?fm=jpg&fit=crop&w=1200&h=675&q=80",
+    "cover": "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg",
     "excerpt": "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung.",
     "path": "posts/first-post.md",
-    "sha": "9c6a44443ee692d332f419fa8c199d52cbaf4bfa",
-    "updated_at": "2026-11-06T10:02:56+01:00"
+    "sha": "dddf4f4fd2a7bd407285ab99f2e9a383fdcf3eb1",
+    "updated_at": "2026-11-06T10:06:09+01:00"
   }
 ]
