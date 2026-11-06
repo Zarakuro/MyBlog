@@ -6,7 +6,7 @@ cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG_1125.j
 excerpt: "Eine fiktive Wanderung zwischen Gipfeln, frischer Luft und einer kleinen Packliste."
 author: "Tom Muster"
 author_url: "https://example.com/autoren/bergwanderung"
-icon: "🏔️"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d4.png"
 ---
 
 ## Unterwegs zum Gipfel

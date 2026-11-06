@@ -5,7 +5,7 @@ date: "2026-11-04"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg"
 author: "Jule Platzhalter"
 author_url: "https://example.com/autoren/ideenlabor"
-icon: "🧪"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ea.png"
 ---
 
 ## Eine Idee nimmt Form an

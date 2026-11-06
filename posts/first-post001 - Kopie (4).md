@@ -6,7 +6,7 @@ cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperD
 excerpt: "Herbstliche Farbinspiration und ein grünes Waldmotiv bringen Abwechslung in die Testübersicht."
 author: "Finn Beispiel"
 author_url: "https://example.com/autoren/herbstfarben"
-icon: "🎨"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3a8.png"
 ---
 
 ## Eine kleine Farbpalette

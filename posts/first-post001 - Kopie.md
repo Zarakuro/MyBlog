@@ -6,7 +6,7 @@ cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperD
 excerpt: "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch."
 author: "Mia Demo"
 author_url: "https://example.com/autoren/kaffeepause"
-icon: "☕"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2615.png"
 ---
 
 ## Zeit für eine Pause

@@ -6,7 +6,7 @@ cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperD
 excerpt: "Ein Waldmotiv als Cover und ein Bild im Artikel bringen den Spaziergang sichtbar in die Testübersicht."
 author: "Emma Test"
 author_url: "https://example.com/autoren/waldspaziergang"
-icon: "🌲"
+icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f332.png"
 ---
 
 ## Zwischen den Bäumen
