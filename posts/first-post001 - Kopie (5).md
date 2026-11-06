@@ -1,34 +1,26 @@
 ---
-title: "My First Blog Post"
-slug: "my-first-post"
-date: "2026-10-27"
-cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
-excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
+title: "Test 07: Stadtlichter nach Sonnenuntergang"
+slug: "test-07-stadtlichter"
+date: "2026-11-02"
+cover: "https://images.unsplash.com/photo-1519608487953-e999c86e7455"
+excerpt: "Ein längerer Beispielartikel über einen erfundenen Abend zwischen Straßen, Schaufenstern und Lichtern."
+author: "Sara Muster"
+author_url: "https://example.com/autoren/stadtlichter"
+icon: "🌆"
 ---
 
-## Welcome to My Blog
+## Wenn die Stadt aufleuchtet
 
-This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
+Dies ist **Testbeitrag 07**. Nach Sonnenuntergang verändert sich der Blick auf vertraute Straßen. Schaufenster spiegeln sich auf dem Asphalt, während die letzten Cafés ihre Stühle hineintragen.
 
-### Why I Started This Blog
+### Ein Weg ohne festes Ziel
 
-I created this blog to share useful information and document what I learn along the way.
+An der nächsten Kreuzung biegen wir spontan ab. Hinter einer schmalen Passage wartet ein stiller Innenhof. Für einen Moment klingt der Verkehr nur noch wie ein fernes Rauschen.
 
-Here are a few things I plan to write about:
+### Zurück auf dem Platz
 
-- Tutorials and guides
-- Personal experiences
-- Tips and resources
+Eine Straßenbahn zieht vorbei. Wir setzen uns auf eine Bank und beobachten, wie die Fenster der Häuser nach und nach hell werden.
 
-### What to Expect
+### Ende des Rundgangs
 
-Each article will include a title, and an optional cover image.
-
-You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
-
-
-### Final Thoughts
-
-Thanks for visiting my blog!
-
-I hope you find something useful here. Stay tuned for more articles.
+Dieser längere Text macht die Darstellung mehrerer Abschnitte und die Abstände zwischen Überschriften sichtbar.

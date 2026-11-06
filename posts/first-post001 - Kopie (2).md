@@ -1,34 +1,22 @@
 ---
-title: "My First Blog Post"
-slug: "my-first-post"
-date: "2026-10-27"
-cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
-excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
+title: "Test 04: Ein Arbeitsplatz voller Ideen und kleiner kreativer Umwege"
+slug: "test-04-kreativer-arbeitsplatz"
+date: "2026-10-30"
+cover: "https://images.unsplash.com/photo-1497366754035-f200968a6e72"
+excerpt: "Ein bewusst längerer Titel und eine ausführlichere Vorschau testen, wie die Beitragskarten mit mehreren Textzeilen und unterschiedlich langen Inhalten umgehen."
+author: "Noah Platzhalter"
+author_url: "https://example.com/autoren/kreativer-arbeitsplatz"
+icon: "💡"
 ---
 
-## Welcome to My Blog
+## Raum für Kreativität
 
-This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
+Dies ist **Testbeitrag 04**. Dieser Artikel hat einen besonders langen Titel, um Zeilenumbrüche im Layout sichtbar zu machen.
 
-### Why I Started This Blog
+### Kleine Veränderungen
 
-I created this blog to share useful information and document what I learn along the way.
+Eine freie Arbeitsfläche, ein Notizbuch und etwas Tageslicht geben neuen Ideen Platz.
 
-Here are a few things I plan to write about:
+#### Ein Detail zum Schluss
 
-- Tutorials and guides
-- Personal experiences
-- Tips and resources
-
-### What to Expect
-
-Each article will include a title, and an optional cover image.
-
-You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
-
-
-### Final Thoughts
-
-Thanks for visiting my blog!
-
-I hope you find something useful here. Stay tuned for more articles.
+Auch eine Überschrift der vierten Ebene gehört zu diesem Formatierungstest.

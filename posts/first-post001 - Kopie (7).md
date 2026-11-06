@@ -1,34 +1,21 @@
 ---
-title: "My First Blog Post"
-slug: "my-first-post"
-date: "2026-10-27"
-cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
-excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
+title: "Test 09: Notizen aus dem Ideenlabor"
+slug: "test-09-ideenlabor"
+date: "2026-11-04"
+cover: "https://images.unsplash.com/photo-1455390582262-044cdead277a"
+author: "Jule Platzhalter"
+author_url: "https://example.com/autoren/ideenlabor"
+icon: "🧪"
 ---
 
-## Welcome to My Blog
+## Eine Idee nimmt Form an
 
-This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
+Dies ist **Testbeitrag 09**. Die Vorschau dieser Karte wird automatisch aus dem Artikeltext erzeugt. So lässt sich die Ersatzdarstellung ohne eigenes Excerpt prüfen.
 
-### Why I Started This Blog
+### Vom Gedanken zur Skizze
 
-I created this blog to share useful information and document what I learn along the way.
+Zuerst sammeln wir Begriffe, danach verbinden wir sie zu einem einfachen Konzept.
 
-Here are a few things I plan to write about:
+### Der nächste Versuch
 
-- Tutorials and guides
-- Personal experiences
-- Tips and resources
-
-### What to Expect
-
-Each article will include a title, and an optional cover image.
-
-You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
-
-
-### Final Thoughts
-
-Thanks for visiting my blog!
-
-I hope you find something useful here. Stay tuned for more articles.
+Eine neue Skizze hält fest, was beim ersten Durchgang noch gefehlt hat.

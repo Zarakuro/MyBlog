@@ -1,34 +1,22 @@
 ---
-title: "My First Blog Postwertwer"
-slug: "my-first-postasdfasdf"
-date: "2026-10-27"
-cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
-excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
+title: "Test 11: Format-Check: Überschriften, Links & Bilder"
+slug: "test-11-format-check"
+date: "2026-11-06"
+cover: "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+excerpt: "Der jüngste Testbeitrag kombiniert Textauszeichnung, einen Link und ein Bild mit Größenangaben."
+author: "Alex Test"
+author_url: "https://example.com/autoren/format-check"
+icon: "🔎"
 ---
 
-## Welcome to My Blog
+## Formatierung im Vergleich
 
-This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
+Dies ist **Testbeitrag 11**. Hier stehen **fette Wörter**, *kursive Hinweise* und ein [Beispiellink](https://example.com) in einem Absatz.
 
-### Why I Started This Blog
+### Ein Bild im Artikel
 
-I created this blog to share useful information and document what I learn along the way.
+![Testbild eines Arbeitsplatzes](https://images.unsplash.com/photo-1499750310107-5fef28a66643){width=80% round=12px align=center}
 
-Here are a few things I plan to write about:
+#### Abschluss des Format-Checks
 
-- Tutorials and guides
-- Personal experiences
-- Tips and resources
-
-### What to Expect
-
-Each article will include a title, and an optional cover image.
-
-You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
-
-
-### Final Thoughts
-
-Thanks for visiting my blog!
-
-I hope you find something useful here. Stay tuned for more articles.
+Dieser Absatz steht unter einer kleineren Überschrift. Damit lassen sich Text, Link und Bild innerhalb desselben Beitrags vergleichen.

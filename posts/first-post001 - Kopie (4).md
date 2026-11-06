@@ -1,34 +1,26 @@
 ---
-title: "My First Blog Post"
-slug: "my-first-post"
-date: "2026-10-27"
-cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
-excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
+title: "Test 06: Farben für einen frischen Herbst"
+slug: "test-06-herbstfarben"
+date: "2026-11-01"
+cover: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+excerpt: "Orange, Gold und dunkles Grün bringen Abwechslung in die Testübersicht."
+author: "Finn Beispiel"
+author_url: "https://example.com/autoren/herbstfarben"
+icon: "🎨"
 ---
 
-## Welcome to My Blog
+## Eine kleine Farbpalette
 
-This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
+Dies ist **Testbeitrag 06**. Drei Farbtöne stehen heute im Mittelpunkt.
 
-### Why I Started This Blog
+### Orange
 
-I created this blog to share useful information and document what I learn along the way.
+Ein kräftiger Akzent für wichtige Stellen.
 
-Here are a few things I plan to write about:
+### Gold
 
-- Tutorials and guides
-- Personal experiences
-- Tips and resources
+Ein warmer Ton für kleine Highlights.
 
-### What to Expect
+### Dunkles Grün
 
-Each article will include a title, and an optional cover image.
-
-You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
-
-
-### Final Thoughts
-
-Thanks for visiting my blog!
-
-I hope you find something useful here. Stay tuned for more articles.
+Eine ruhige Basis für das gesamte Farbbild.

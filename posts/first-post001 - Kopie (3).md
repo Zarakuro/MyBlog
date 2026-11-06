@@ -1,34 +1,21 @@
 ---
-title: "My First Blog Post"
-slug: "my-first-post"
-date: "2026-10-27"
-cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
-excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
+title: "Test 05: Waldspaziergang ohne Titelbild"
+slug: "test-05-waldspaziergang"
+date: "2026-10-31"
+excerpt: "Diese Karte kommt ohne Cover aus und zeigt, wie reine Textbeiträge in der Übersicht wirken."
+author: "Emma Test"
+author_url: "https://example.com/autoren/waldspaziergang"
+icon: "🌲"
 ---
 
-## Welcome to My Blog
+## Zwischen den Bäumen
 
-This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
+Dies ist **Testbeitrag 05**. Für diesen Spaziergang bleibt das Cover-Feld absichtlich weg.
 
-### Why I Started This Blog
+Das Licht fällt durch die Blätter.
+Unter den Schuhen raschelt trockenes Laub.
+Ein schmaler Weg führt tiefer in den Wald.
 
-I created this blog to share useful information and document what I learn along the way.
+### Darauf achten
 
-Here are a few things I plan to write about:
-
-- Tutorials and guides
-- Personal experiences
-- Tips and resources
-
-### What to Expect
-
-Each article will include a title, and an optional cover image.
-
-You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
-
-
-### Final Thoughts
-
-Thanks for visiting my blog!
-
-I hope you find something useful here. Stay tuned for more articles.
+Die Karte soll auch ohne Bild gut lesbar bleiben.

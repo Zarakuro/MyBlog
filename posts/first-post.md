@@ -1,34 +1,18 @@
 ---
-title: "My First Blog Post"
-slug: "my-first-post"
+title: "Test 01: Willkommen im Testblog"
+slug: "test-01-willkommen"
 date: "2026-10-27"
 cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
-excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
+excerpt: "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung."
+author: "Lena Beispiel"
+author_url: "https://example.com/autoren/willkommen"
+icon: "👋"
 ---
 
-## Welcome to My Blog
+## Hallo aus dem Testblog
 
-This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
+Dies ist **Testbeitrag 01**. Die Startkarte zeigt einen kurzen Titel und eine kompakte Vorschau.
 
-### Why I Started This Blog
+### Der erste Eindruck
 
-I created this blog to share useful information and document what I learn along the way.
-
-Here are a few things I plan to write about:
-
-- Tutorials and guides
-- Personal experiences
-- Tips and resources
-
-### What to Expect
-
-Each article will include a title, and an optional cover image.
-
-You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
-
-
-### Final Thoughts
-
-Thanks for visiting my blog!
-
-I hope you find something useful here. Stay tuned for more articles.
+Hier beginnt die Sammlung verschiedener Testinhalte. Titelbild, Datum und Autorenzeile sollen auf einen Blick erkennbar sein.

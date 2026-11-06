@@ -1,34 +1,20 @@
 ---
-title: "My First Blog Postasdfasd"
-slug: "my-first-post"
-date: "2026-10-27"
-cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
-excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
+title: "Test 03: Kaffeepause: fünf Minuten für neue Ideen"
+slug: "test-03-kaffeepause"
+date: "2026-10-29"
+cover: "https://images.unsplash.com/photo-1447933601403-0c6688de566e"
+excerpt: "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch."
+author: "Mia Demo"
+author_url: "https://example.com/autoren/kaffeepause"
+icon: "☕"
 ---
 
-## Welcome to My Blog
+## Zeit für eine Pause
 
-This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
+Dies ist **Testbeitrag 03**. Der Duft von frisch gemahlenem Kaffee kündigt eine kleine Auszeit an.
 
-### Why I Started This Blog
+### Unser Testrezept
 
-I created this blog to share useful information and document what I learn along the way.
+Frisch mahlen, heißes Wasser aufgießen und kurz ziehen lassen.
 
-Here are a few things I plan to write about:
-
-- Tutorials and guides
-- Personal experiences
-- Tips and resources
-
-### What to Expect
-
-Each article will include a title, and an optional cover image.
-
-You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
-
-
-### Final Thoughts
-
-Thanks for visiting my blog!
-
-I hope you find something useful here. Stay tuned for more articles.
+**Notiz:** Dieser Text ist ein Beispielinhalt für die Darstellung kurzer Absätze.
