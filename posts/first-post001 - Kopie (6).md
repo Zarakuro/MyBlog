@@ -2,6 +2,7 @@
 title: "Test 08: Meeresrauschen in drei Zeilen"
 slug: "test-08-meeresrauschen"
 date: "2026-11-03"
+published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%289%29.jpg"
 excerpt: "Ein besonders kurzer Testbeitrag für einen schnellen Vergleich mit langen Artikeln."
 author: "Ben Demo"

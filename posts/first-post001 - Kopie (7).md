@@ -2,6 +2,7 @@
 title: "Test 09: Notizen aus dem Ideenlabor"
 slug: "test-09-ideenlabor"
 date: "2026-11-04"
+published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Z6G_6104.jpg"
 author: "Jule Platzhalter"
 author_url: "https://example.com/autoren/ideenlabor"

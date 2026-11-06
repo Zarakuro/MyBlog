@@ -2,6 +2,7 @@
 title: "Test 04: Ein Arbeitsplatz voller Ideen und kleiner kreativer Umwege"
 slug: "test-04-kreativer-arbeitsplatz"
 date: "2026-10-30"
+published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/Untitled%20diagram-2025-12-07-215740.png"
 excerpt: "Ein bewusst längerer Titel und eine ausführlichere Vorschau testen, wie die Beitragskarten mit mehreren Textzeilen und unterschiedlich langen Inhalten umgehen."
 author: "Noah Platzhalter"

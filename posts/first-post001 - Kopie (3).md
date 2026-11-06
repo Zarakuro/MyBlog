@@ -2,6 +2,7 @@
 title: "Test 05: Waldspaziergang im Sonnenlicht"
 slug: "test-05-waldspaziergang"
 date: "2026-10-31"
+published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%288%29.jpg"
 excerpt: "Ein Waldmotiv als Cover und ein Bild im Artikel bringen den Spaziergang sichtbar in die Testübersicht."
 author: "Emma Test"

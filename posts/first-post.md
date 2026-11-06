@@ -2,6 +2,7 @@
 title: "Test 01: Willkommen im Testblog"
 slug: "test-01-willkommen"
 date: "2026-10-27"
+published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG-20240403-WA0006.jpg"
 excerpt: "Ein kurzer Einstieg mit Titelbild, Autor und einer kompakten Begrüßung."
 author: "Lena Beispiel"

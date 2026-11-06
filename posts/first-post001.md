@@ -2,6 +2,7 @@
 title: "Test 02: Bergluft am Morgen"
 slug: "test-02-bergwanderung"
 date: "2026-10-28"
+published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/IMG_1125.jpg"
 excerpt: "Eine fiktive Wanderung zwischen Gipfeln, frischer Luft und einer kleinen Packliste."
 author: "Tom Muster"

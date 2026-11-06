@@ -2,6 +2,7 @@
 title: "Test 03: Kaffeepause: fünf Minuten für neue Ideen"
 slug: "test-03-kaffeepause"
 date: "2026-10-29"
+published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%287%29.jpg"
 excerpt: "Ein gemütlicher Testartikel mit kurzem Rezept und einem Gedanken für zwischendurch."
 author: "Mia Demo"

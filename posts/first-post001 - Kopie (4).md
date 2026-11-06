@@ -2,6 +2,7 @@
 title: "Test 06: Farben für einen frischen Herbst"
 slug: "test-06-herbstfarben"
 date: "2026-11-01"
+published_date: "1999-01-01"
 cover: "https://raw.githubusercontent.com/Zarakuro/MyBlog/main/images/WallpaperDownload%20%2810%29.jpg"
 excerpt: "Herbstliche Farbinspiration und ein grünes Waldmotiv bringen Abwechslung in die Testübersicht."
 author: "Finn Beispiel"
