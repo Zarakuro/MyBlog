@@ -12,6 +12,7 @@ author: "Zarakuro"
 Das hier soll eine kurze Übersicht werden zu meiner Speicherstruktur der Fotos und wie ich PC, NAS und Festplatten mit Lightroom nutze, um meine Fotos zu organisieren. 
 Das Ganze startet mit den Speicherkarten, die in Lightroom importiert werden. in Lightroom wird dann der Hauptkatalog genutzt, um fotos auf der PC festplatte und dem NAS zu verwalten. Alle Fotos die ich aktiv bearbeite, liegen auf dem PC lokal. Alle Fotos, die schon bearbeitet wurden, liegen auf dem NAS (das sind etwa die letzten 5 Jahre). Aus dem Hauptkatalog werden ungerschiedliche andere kataloge abgeleitet, die jeweils ein stück auf dem PC liegen, ein Stück auf dem NAS. Alle fotos, die "nie wieder" genutzt werden, werden auf eine Festplatte als separate Kataloge exportiert. Der lokale Hauptkatalog verwaltet Fotos auf dem Rechner und dem NAS. Daraus entstehen weitere Kataloge für das Deep Foto Archive enthält die als separate Kataloge exportierten Langzeitbestände mit ihren zugehörigen Originalfotos.
 
+## Meine Erfahrungen
 Mit diesem Aufbau stelle ich mich etwas gegen die [Kataloggrundlagen](https://helpx.adobe.com/uk/lightroom-classic/desktop/manage-catalogs-and-files/lightroom-catalog-basics.html) von Adobe, passe mich aber an die  [Anleitung zur Katalogsicherung](https://helpx.adobe.com/in/lightroom-classic/desktop/manage-catalogs-and-files/back-catalog.html)
 an. Entgegen der Aussage der [Adobe-Katalog-FAQ](https://helpx.adobe.com/in/lightroom-classic/desktop/technical-support/workflow-issues/catalog-issues/catalog-faq-lightroom.html) läuft bei mir ein aktiver Katalog auf einem NAS share eins A.
 
@@ -87,7 +88,9 @@ flowchart TB
 ```
 
 
-## Pflege und Aufräumen
 
-## Meine Erfahrungen
+
+
+
+
 
